@@ -1,0 +1,221 @@
+    1  sudo apt-get update
+    2 sudo apt-get install g++ libtool flex bison gcc libnet1 libnet1-dev libcrypt-ssleay-perl libpcre3 libpcre3-dev libphp-adodb libssl-dev libwww-perl ntp php5-cli php-pear apache2-utils apache2.2-bin apache2.2-common libapache2-mod-phph5
+    3  sudo apt-get install $g++ libtool flex bison gcc libnet1 libnet1-dev libcrypt-ssleay-perl libpcre3 libpcre3-dev libphp-adodb libssl-dev libwww-perl ntp php5-cli php-pear apache2-utils apache2.2-bin apache2.2-common libapache2-mod-phph5
+    4  sudo apt-get install g++
+    5  sudo apt-get install ntp
+    6  sudo apt-get apache2
+    7  sudo apt-get install apache2
+    8  sudo apt-get install php5-cli
+    9  sudo apt-get install  libnet1 libnet1-dev libcrypt-ssleay-perl libpcre3 libpcre3-dev libphp-adodb libssl-dev libwww-perl ntp php5-cli php-pear apache2-utils apache2.2-bin apache2.2-common libapache2-mod-phph5
+   10  sudo apt-get install libapache2-mod-php5
+   11  sudo apt-get install libnet1 libnet1-dev libcrypt-ssleay-perl
+   12  sudo apt-get libphp-adodb libssl-dev libwww-perl
+   13  sudo apt-get  libphp-adodb libssl-dev libwww-perl
+   14  sudo apt-get libpcre3 libpcre3-dev 
+   15  sudo apt-get libpcre3-dev 
+   16  sudo apt-get install libnet1 libnet1-dev 
+   17  sudo apt-get install libphp-adodb libssl-dev libwww-perl
+   18  sudo apt-get install php5-cli php-pear
+   19  sudo apt-get install mysql-client mysql-server 
+   20  sudo apt-get install mysql-common
+   21  sudo apt-get install libmysqlclient-dev php5-mysql
+   22  sudo apt-get install php5-mysql
+   23  ifconfig
+   24  sudo apt-get install pycrypto
+   25  synaptic
+   26  sudo apt-get install synaptic
+   27  synaptic
+   28  sudo synaptic
+   29  sudo service mysql status
+   30  sudo apt-get install python-twisted
+   31  sudo mysql -h localhost -u root -p
+   32  mysql -h localhost -u root -p
+   33  su 
+   34  pwd
+   35  cd Downloads
+   36  ls -l
+   37  sudo mv kippo-0.8.tar.gz /usr/src/
+   38  cd 
+   39  ls -l
+   40  cd ..
+   41  ls -l
+   42  sudo cd root
+   43  cd
+   44  sudo cd root
+   45  sudo cd /root
+   46  sudo cd /root/
+   47  cd ..
+   48  sudo cd /root/
+   49  sudo root
+   50  su root
+   51  sudo root
+   52  sudo su
+   53  sudo apt-get install iceweasel
+   54  iceweasel
+   55  sudo su
+   56  sudo apt-get install mysql-server mysql-client python-mysqldb libmysqlclient-dev python-dev
+   57  sudo service apache2 stop
+   58  sudo service apache2 start
+   59  sudo service mysql status
+   60  sudo service mysql stop
+   61  sudo service mysql start
+   62  sudo service mysql status
+   63  sudo su
+   64  sudo apt-get install libpcap-1.6.2
+   65  sudo apt-get install libpcap
+   66  sudo synaptic
+   67  top
+   68  sudo apt-get install libcap-1.6.2
+   69  sudo synaptic
+   70  sudo apt-get install libpcap-dev
+   71  sudo apt-get update
+   72  sudo su
+   73  sudo dpkg --configure -a
+   74  sudo su
+   75  sudo snort -v
+   76  sudo snort -V
+   77  sudo apt-get purge snort snort-common
+   78  sudo apt-get clean
+   79  sudo apt-get autoremove
+   80  sudo apt-get install libdaq0 libdumbnet1 oinkmaster
+   81  sudo apt-get libdnet
+   82  sudo apt-get install libdnet
+   83  sudo apt-get install libpcap
+   84  synaptic
+   85  sudo synaptic
+   86  sudo apt-get install g++
+   87  sudo synaptic
+   88  sudo dpkg --configure -a
+   89  sudo su
+   90  ifconfig
+   91  sudo add-apt-repository ppa:webupd8team/sublime-text-3
+   92  sudo add-apt get install gedit 
+   93  sudo apt-get install gedit 
+   94  ifconfig
+   95  ping 192.168.0.104
+   96  sudo apt-get install autoconf
+   97  sudo apt-get install libtool
+   98  sudo synaptic
+   99  sudo c
+  100  sudo su
+  101  synaptic
+  102  sudo su
+  103  ifconfig
+  104  ping 192.168.0.100
+  105  sudo su
+  106  top
+  107  sudo apt-get install evance
+  108  sudo apt-get install evince
+  109  sudo evince
+  110  sudo gedit /etc/snort/barnyard.conf
+  111  sudo /usr/local/bin/snort -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  112  /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -G /etc/snort/gen-msg.map -S /etc/snort/sid-msg.map -C /etc/snort/classification.config &
+  113  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -G /etc/snort/gen-msg.map -S /etc/snort/sid-msg.map -C /etc/snort/classification.config &
+  114  sudo barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -g snort -u snort
+  115  sudo  /etc/snort/barnyard2.conf
+  116  sudo gedit  /etc/snort/barnyard2.conf
+  117  sudo barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -g snort -u snort
+  118  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -G /etc/snort/gen-msg.map -S /etc/snort/sid-msg.map -C /etc/snort/classification.config &
+  119  sudo mysql
+  120  sudo mysql -u root -p
+  121  /usr/local/bin/barnyard2 -c /etc/snort/barnyard.conf -d /var/log/snort/-f snort.log -w /var/log/snort/barnyard2.waldo 
+  122  sudo mysql -u root -p
+  123  sudo service barnyard2 re
+  124  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -G /etc/snort/gen-msg.map -S  -C /etc/snort/classification.config &
+  125  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -G /etc/snort/gen-msg.map  -C /etc/snort/classification.config &
+  126  /usr/local/bin/barnyard2 -c /etc/snort/barnyard.conf -d /var/log/snort/ -f snort.log -w /var/log/barnyard2.waldo -C /etc/snort/classification.config 
+  127  sudo /usr/local/bin/snort -A console -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  128  sudo /usr/local/bin/snort -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  129  sudo /etc/snort/snort.conf
+  130  sudo gedit /etc/snort/snort.conf
+  131  sudo barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.u2 -w /var/log/snort/barnyard2.waldo \
+  132  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -g snort -u snort
+  133  /usr/local/bin/snort -q -u snort -g snort -c /etc/snort/snort.conf -i eth0 &
+  134  /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -G /etc/snort/gen-msg.map -S /etc/snort/sid-msg.map -C /etc/snort/classification.config &
+  135  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -G /etc/snort/gen-msg.map -S /etc/snort/sid-msg.map -C /etc/snort/classification.config &
+  136  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -g snort -u snort
+  137  mysql -u root -p
+  138  sudo mysql -u snort -p -D snort -e "select count(*) from event"
+  139  sudo gedit /etc/snort/snort.conf
+  140  sudo gedit /etc/snort/barnyard2.conf
+  141  sudo sudo /usr/local/bin/snort -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  142  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.u2 -w /var/log/snort/barnyard2.waldo -g snort -u snort
+  143  mysql -u snort -p -D snort -e "select count(*) from event"
+  144  mysql -u snort -p snort
+  145  sudo gedit /etc/snort/snort.conf
+  146  sudo sudo /usr/local/bin/snort -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  147  sudo gedit /etc/snort/snort.conf
+  148  sudo sudo /usr/local/bin/snort -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  149  sudo gedit /etc/snort/barnyard2.conf
+  150  sudo sudo /usr/local/bin/snort -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  151  sudo mv /home/pi/Downloads/ /var/www/html
+  152  sudo mv /var/www/html/Downloads/phpmyadmin/ /var/www/html
+  153  sudo mv /var/www/html/Downloads /home/pi/
+  154  sudo mysql -u root -p
+  155  mysql -u snort -p -D snort -e "select count(*) from event"
+  156  uname -n
+  157  sudo sudo /usr/local/bin/snort -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  158  sudo /usr/local/bin/snort -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  159  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.u2 -w /var/log/snort/barnyard2.waldo -g snort -u snort
+  160  sudo mysql -u snort -p -D snort -e "select count(*) from event"
+  161  sudo gedit /etc/snort/barnyard2.conf
+  162  sudo gedit /etc/snort/snort.conf
+  163  sudo gedit /etc/snort/barnyard2.conf
+  164  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.u2 -w /var/log/snort/barnyard2.waldo -g snort -u snort
+  165  sudo gedit /etc/snort/barnyard2.conf
+  166  sudo mysql -u snort -p -D snort -e "select count(*) from event"
+  167  sudo /usr/local/bin/snort -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  168  ifconfig
+  169  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.u2 -w /var/log/snort/barnyard2.waldo -g snort -u snort
+  170  sudo mysql -u snort -p -D snort -e "select count(*) from event"
+  171  sudo service mysql start
+  172  sudo mysql -u snort -p -D snort -e "select count(*) from event"
+  173  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.u2 -w /var/log/snort/barnyard2.waldo -g snort -u snort
+  174  sudo gedit /etc/snort/barnyard2.conf
+  175  sudo bash -c "sudo ./create-sidmap.pl /etc/snort/rules > /etc/snort/sid-msg.map"
+  176  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -C /etc/snort/classification.config
+  177  sudo rf /etc/snort/sid-msg.map 
+  178  sudo rm -rf /etc/snort/sid-msg.map 
+  179  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -C /etc/snort/classification.config
+  180  sudo /usr/local/bin/barnyard2 #
+  181  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -C /etc/snort/classification.config
+  182  sudo /usr/local/bin/snort -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  183  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -C /etc/snort/classification.config
+  184  sudo gedit /etc/snort/barnyard2.conf
+  185  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -C /etc/snort/classification.config
+  186  sudo gedit /etc/snort/barnyard2.conf
+  187  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -C /etc/snort/classification.config
+  188  sudo gedit /etc/snort/barnyard2.conf
+  189  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -C /etc/snort/classification.config
+  190  sudo gedit /etc/snort/barnyard2.conf
+  191  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -C /etc/snort/classification.config
+  192  sudo gedit /etc/snort/barnyard2.conf
+  193  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -C /etc/snort/classification.config
+  194  sudo gedit /etc/snort/barnyard2.conf
+  195  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -C /etc/snort/classification.config
+  196  sudo gedit /etc/snort/barnyard2.conf
+  197  sudo /usr/local/bin/barnyard2 -c /etc/snort/barnyard2.conf -d /var/log/snort -f snort.log -w /var/log/snort/barnyard2.waldo -C /etc/snort/classification.config
+  198  sudo synaptic
+  199  sudo mv /home/pi/Downloads/oinkmaster-2.0/oinkmaster.pl /usr/local/bin/
+  200  sudo mv /home/pi/Downloads/oinkmaster-2.0/oinkmaster.conf /etc/
+  201  sudo gedit /etc/oinkmaster.conf 
+  202  ls -l
+  203  cd ..
+  204  cd
+  205  cd ..
+  206  ls -l
+  207  sudo cd
+  208  cd
+  209  cd /usr/src/kippo-0.8/
+  210  su kippo
+  211  sudo su kippo
+  212  ifconfig
+  213  sudo /usr/local/bin/snort -A console -q -u snort -g snort -c /etc/snort/snort.conf -i eth0
+  214  history
+  215  cd /usr/src/kippo-0.8/
+  216  su kippo
+  217  sudo
+  218  su kippo
+  219  clear
+  220  history
+
